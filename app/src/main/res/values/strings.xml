@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">encoreuntest</string>
+    <string name="compteur">0</string>
+    <string name="Title">Test 1er cours</string>
+    <string name="reset">Reset</string>
+    <string name="click">Click</string>
+    <string name="substract">Substract\n</string>
+</resources>
